@@ -1,0 +1,43 @@
+.container-navbar {
+    position: relative;
+    font-size: 1.3rem;
+}
+
+.img-detalhe {
+    position: absolute;
+    top     : 0px;
+    left    : 0;
+    z-index: -1;
+
+    /* border: 3px solid #73AD21; */
+}
+
+.botao-search {
+    color : #f5b400;
+    border: 1px solid #f5b400;
+}
+
+.botao-search:hover {
+    color           : #0A1D37;
+    border          : 1px solid #f5b400;
+    background-color: #f5b400;
+}
+
+.nav-link:hover{
+    font-size: 1.33rem;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .img-detalhe {
+        left : 0;
+        width: 60%;
+
+    }
+
+    .banner{
+        width: 80%;
+   
+    }
+
+}

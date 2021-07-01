@@ -1,0 +1,51 @@
+.tabela-filmes{
+    width: 90%;
+    margin-top: 50px;
+}
+
+.filmes-titulo{
+   margin-top: 50px;
+}
+
+.form-novo-filme{
+width: 50%;
+margin-top: 30px;
+}
+
+
+.container-botao-cadastrar {
+    width: 60%;
+}
+
+.botao-cadastrar {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.btn-outline-info {
+    background-color:#f5b400 ;
+    border: 1px solid #f8b600;
+    color: black;
+}
+
+.btn-outline-info:hover{
+    background-color: white;
+    color: #f8b600;
+    border: 1px solid #f8b600;
+}
+
+.btn-outline-danger{
+    background-color:#FA1E0E ;
+    border: 1px solid #FA1E0E;
+    color: black;
+}  
+
+.btn-outline-danger:hover{
+    background-color: white;
+    color: #FA1E0E;
+    border: 1px solid #FA1E0E;
+}
+
+.container-cadastrar{
+    margin-bottom: 100px;
+}
