@@ -2,7 +2,7 @@ a {
     text-decoration: none;
 }
 
-.rodape {
+/* .rodape {
     position   :fixed;
     bottom     : 0px;
     color      : #FFF;
@@ -13,6 +13,18 @@ a {
     background-color: white;
     
   
+} */
+
+.rodape {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #fff;
+    text-align: center;
+    z-index: 1;
+ 
 }
 
 .rodape-copyright {
@@ -21,7 +33,7 @@ a {
 
 .img-detalhe-rodape {
     position: absolute;
-    bottom  : -20px;
+    bottom  : 0px;
    right   : 0;
   
 }
