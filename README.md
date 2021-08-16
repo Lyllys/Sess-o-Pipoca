@@ -7,9 +7,9 @@
  <a href="#aprendizado">O que eu pude praticar</a> •  
  <a href="#autor">Autor</a>
 </p>
+
 <br />
-
-
+<br />
 
 <img src="https://github.com/Lyllys/Sessao-Pipoca/blob/32e741561f06f013398657e530f6a06cb6f6acea/imagens_readme/tela_principal.png" />
 
