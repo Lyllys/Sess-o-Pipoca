@@ -30,8 +30,8 @@ https://user-images.githubusercontent.com/76455440/129614475-84482ea3-6be1-4176-
 
 3. `npm start` , para iniciar o projeto
 
-4. `git clone https://github.com/Lyllys/Sessao-Pipoca-API.git` . Este repositório é da API utilizada para as operações CRUD. Para mais informações de como utilizá-lo, [clique aqui.](https://github.com/Lyllys/Sessao-Pipoca-API) 
+4. Acessar [http://localhost:3000](http://localhost:3000/) no seu navegador.  
 
-5. Acessar [http://localhost:3000](http://localhost:3000/) no seu navegador.  
-
+⚠ Obs: Para realizar as operações CRUD, no momento, é necessário rodar a API localmente também. Para mais informações de como utilizar a API deste projeto, visite [este repositório.](https://github.com/Lyllys/Sessao-Pipoca-API) 
+ 
 
