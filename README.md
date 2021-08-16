@@ -25,7 +25,7 @@ No projeto é possível fazer todas as operações CRUD (create, read, update, d
 <br />
 
 <h2 id="rodarProjeto">▶ Como rodar o projeto</h2>
-<p>Para clonar o projeto e rodá-lo localmente você poder seguir os passos abaixo: </p>
+Para clonar o projeto e rodá-lo localmente você poder seguir os passos abaixo:
 
 1. `git clone https://github.com/Lyllys/Sessao-Pipoca.git`
 
