@@ -21,6 +21,7 @@ https://user-images.githubusercontent.com/76455440/129614475-84482ea3-6be1-4176-
 
 <h2 id="rodarProjeto">▶ Como rodar o projeto</h2>
 <p>Para clonar o projeto e rodá-lo localmente você poder seguir os passos abaixo: </p>
+
 1. git clone https://github.com/Lyllys/Sessao-Pipoca.git 
 
 2. npm install , para instalar as dependências do projeto
