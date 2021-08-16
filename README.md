@@ -7,6 +7,7 @@
  <a href="#aprendizado">O que eu pude praticar</a> •  
  <a href="#autor">Autor</a>
 </p>
+<br />
 
 
 
