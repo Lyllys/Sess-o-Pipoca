@@ -12,7 +12,7 @@
 
 <br />
 
-https://user-images.githubusercontent.com/76455440/129614475-84482ea3-6be1-4176-80d7-b170115f906a.mp4
+<div  width="30%">https://user-images.githubusercontent.com/76455440/129614475-84482ea3-6be1-4176-80d7-b170115f906a.mp4 </div>
 
 <br />
 <br />
