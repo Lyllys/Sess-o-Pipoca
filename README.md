@@ -40,6 +40,7 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 <br />
 
 <h2 id="tecnologias">🚀 Tecnologias</h2>
+
 * [React](https://pt-br.reactjs.org/)
 
 * [Bootstrap](https://getbootstrap.com/)
