@@ -25,7 +25,7 @@ No projeto é possível fazer todas as operações CRUD (create, read, update, d
 <br />
 
 <h2 id="rodarProjeto">▶ Como rodar o projeto</h2>
-Para clonar o projeto e rodá-lo localmente você poder seguir os passos abaixo:
+Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 1. `git clone https://github.com/Lyllys/Sessao-Pipoca.git`
 
@@ -35,6 +35,13 @@ Para clonar o projeto e rodá-lo localmente você poder seguir os passos abaixo:
 
 4. Acessar [http://localhost:3000](http://localhost:3000/) no seu navegador.  
 
-⚠ Obs: Para realizar as operações CRUD, no momento, é necessário rodar a API localmente também. Para mais informações de como utilizar a API deste projeto, visite [este repositório.](https://github.com/Lyllys/Sessao-Pipoca-API) 
+⚠ Obs: Para realizar as operações CRUD, no momento, é necessário rodar a API localmente também. Para mais informações de como utilizar a API deste projeto, visite [este repositório.](https://github.com/Lyllys/Sessao-Pipoca-API)
+
+<br />
+
+<h2 id="tecnologias">🚀 Tecnologias</h2>
+* [React](https://pt-br.reactjs.org/)
+
+* [Bootstrap](https://getbootstrap.com/)
  
 
