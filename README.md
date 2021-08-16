@@ -48,5 +48,19 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 * [React](https://pt-br.reactjs.org/)
 
 * [Bootstrap](https://getbootstrap.com/)
+
+<br />
+
+<h2 id="aprendizado">💻 O que eu pude praticar</h2>
+
+* Criação de um projeto React
+
+* Rotas 
+
+* Conexão da aplicação com a API
+
+* Estilização
+
+
  
 
