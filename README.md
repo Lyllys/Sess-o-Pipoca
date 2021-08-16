@@ -12,6 +12,12 @@
 
 <br />
 
+https://user-images.githubusercontent.com/76455440/129614475-84482ea3-6be1-4176-80d7-b170115f906a.mp4
+
+<br />
+<br />
+<br />
+
 <img src="https://github.com/Lyllys/Sessao-Pipoca/blob/32e741561f06f013398657e530f6a06cb6f6acea/imagens_readme/tela_principal.png" />
 
 <h2 id="sobre">💡 Sobre</h2>
