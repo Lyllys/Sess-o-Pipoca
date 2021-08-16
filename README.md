@@ -1,4 +1,5 @@
 <h1 align="center">🍿 SESSÃO PIPOCA WEBSITE </h1>
+![Tela da página principal](imagens_readme/tela_principal.png)
 <p align="center">
  <a href="#sobre">Sobre</a> •
  <a href="#rodarProjeto">Como rodar o projeto</a> •
