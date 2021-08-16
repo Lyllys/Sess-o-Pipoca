@@ -19,6 +19,8 @@ https://user-images.githubusercontent.com/76455440/129614475-84482ea3-6be1-4176-
 <p>Eu queria praticar os conhecimentos adquiridos durante a Residência em TIC/Software do Serratec, na qual fui residente de março até agosto de 2021. Pensando nessas sessões e nos filmes nunca catalogados resolvi fazer uma aplicação para finalmente cadastrarmos esses filmes.</p>
 <p>No projeto é possível fazer todas as operações CRUD (create, read, update, delete).</p>
 
+<br />
+
 <h2 id="rodarProjeto">▶ Como rodar o projeto</h2>
 <p>Para clonar o projeto e rodá-lo localmente você poder seguir os passos abaixo: </p>
 
