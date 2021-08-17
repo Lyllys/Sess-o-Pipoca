@@ -7,7 +7,7 @@
  <a href="#rodarProjeto">Como rodar o projeto</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#aprendizado">O que eu pude praticar</a> •  
- <a href="#autor">Autor</a>
+ <a href="#autora">Autora</a>
 </p>
 
 <br />
@@ -61,7 +61,13 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 * Estilização
 
-<di vwidth="100px;" heigth="100px;" style="background-color:#f03c15" > oi </div>
+<br />
+
+<h2 id="autora">👩🏽 Autora</h2>
+
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76455440?v=4" width="100px;" alt=""/>
+
+
 
 
  
