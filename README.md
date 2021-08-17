@@ -46,6 +46,10 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 * [React](https://pt-br.reactjs.org/)
 
+* [Axios](https://www.npmjs.com/package/axios)
+
+* [React Router](https://reactrouter.com/)
+
 * [Bootstrap](https://getbootstrap.com/)
 
 <br />
