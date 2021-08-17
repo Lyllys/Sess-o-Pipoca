@@ -61,7 +61,7 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 * Estilização
 
-<di vwidth="100px;" style="background-color:#f03c15" > oi </div>
+<di vwidth="100px;" heigth="100px;" style="background-color:#f03c15" > oi </div>
 
 
  
